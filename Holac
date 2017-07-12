@@ -1,5 +1,0 @@
-#include<stdio>
-void mian(){
-  printf("Hola.");
-  //sysytem.out.println("Hola.");
-  }
