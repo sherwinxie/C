@@ -1,2 +1,2 @@
 # JAVA
-Java GUI for simple Mp3
+Java encryption algorithm.
